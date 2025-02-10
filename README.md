@@ -13,11 +13,11 @@ Set Up a Virtual Environment:
        python3 -m venv flask-api
        source flask-api/bin/activate 
        
-Install Flask and create simple application:
+Install Flask and Create Simple Application:
 
        pip install Flask
        nano app.py
        
-Run python code:
+Run Python Code:
 
        python app.py
